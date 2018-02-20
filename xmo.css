@@ -17,7 +17,7 @@ body{
 
 .content ul{
     list-style:none;
-    width:2440vh;
+    width:2460vh;
     float:left;}
 
 .content ul li{padding:0px;float:left;}
@@ -32,7 +32,7 @@ body{
 	font: .8em/1.1em Helvetica, sans-serif;}
 
 .black {color: #000;}
-.spacer {width: 5vw !important;}
+.spacer {width: 2vw !important;}
 
 a:visited {color: #fff;}
 a {color: #fff;}
