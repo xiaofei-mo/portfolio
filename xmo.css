@@ -15,10 +15,12 @@ body{
 
 .content p{font-size:9px;}
 
-.content ul{list-style:none;width:1367vw;float:left;}
+.content ul{
+    list-style:none;
+    width:2440vh;
+    float:left;}
 
 .content ul li{padding:0px;float:left;}
-
 
 .text{
     position: absolute;
@@ -30,10 +32,10 @@ body{
 	font: .8em/1.1em Helvetica, sans-serif;}
 
 .black {color: #000;}
+.spacer {width: 5vw !important;}
+
+a:visited {color: #fff;}
+a {color: #fff;}
+
 span img {height:100vh;}
 .ss img {height: 110vh;margin:-2.5vh 0 0 -5vh;}
-
-#pond {width:160vw;}
-#seed {width:320vw;}
-#triangle {width:430vw;}
-#zhou {width:456vw;}
